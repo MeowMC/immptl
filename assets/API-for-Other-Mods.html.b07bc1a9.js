@@ -1,0 +1,1 @@
+const t={key:"v-ff7c8506",path:"/zh/wiki/API-for-Other-Mods.html",title:"API",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{contributors:[{name:"qouteall",email:"qouteall@163.com",commits:1}]},filePathRelative:"zh/wiki/API-for-Other-Mods.md"};export{t as data};

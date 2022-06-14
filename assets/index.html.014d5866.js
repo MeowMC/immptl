@@ -1,0 +1,1 @@
+const e={key:"v-2d0ad528",path:"/zh/",title:"Immersive Portals",lang:"zh-CN",frontmatter:{toc:!1,title:"Immersive Portals"},excerpt:"",headers:[{level:2,title:"\u7279\u6027",slug:"\u7279\u6027",children:[]}],git:{contributors:[{name:"qouteall",email:"qouteall@163.com",commits:1}]},filePathRelative:"zh/README.md"};export{e as data};

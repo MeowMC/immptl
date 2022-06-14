@@ -1,0 +1,1 @@
+const t={key:"v-0d899762",path:"/zh/wiki/Datapack-Based-Custom-Portal-Generation.html",title:"\u6570\u636E\u5305\u81EA\u5B9A\u4E49\u4F20\u9001\u95E8\u751F\u6210",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{contributors:[{name:"qouteall",email:"qouteall@163.com",commits:1}]},filePathRelative:"zh/wiki/Datapack-Based-Custom-Portal-Generation.md"};export{t as data};

@@ -1,0 +1,1 @@
+const e={key:"v-61d38958",path:"/zh/wiki/Dimension-Management.html",title:"\u4F4D\u9762\u7BA1\u7406",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{contributors:[{name:"qouteall",email:"qouteall@163.com",commits:1}]},filePathRelative:"zh/wiki/Dimension-Management.md"};export{e as data};
